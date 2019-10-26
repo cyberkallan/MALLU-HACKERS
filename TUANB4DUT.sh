@@ -26,17 +26,17 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet CYBER KALLAN  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
-echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
+echo -b "TYPE      : MALLU HACKERS $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : TUAN B4DUT $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
-echo -b "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
+echo -b "AUTHOR    : CYBER KALLAN $green " |lolcat
+echo -b "ASSOCIATE : KERALA TERMUX ASSOCIATION $green " |lolcat
+echo -b "ASSOCIATE : KERALA TERMUX TUTORIAL $green " |lolcat
+echo -b "ASSOCIATE : KERALA DARK TERMUX ASSOCIATE $green " |lolcat
+echo -b "DON'T USE THIS TOOL FOR ILLEGEL ACTIVITIES      " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
@@ -47,12 +47,12 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
+echo -b $green"[#]> INSTALLATION " |lolcat
 echo -b $green"[#]> Thanks For Using My Tools" |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> mallu hackers On Your System" |lolcat
 
-echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
+echo -b $green"[#]> See you Again Machane😎 :)..." |lolcat
 figlet TUAN B4DUT | lolcat
 sleep 1
 exit
@@ -67,7 +67,7 @@ echo ""
 echo ""
 
 echo -e "######################################" | lolcat
-echo -e "#SILAHKAN TUNGGU DAN LIHAT LIST TOOLS#" | lolcat
+echo -e "#LISTING TOOLS#" | lolcat
 echo -e "######################################" | lolcat
 
 echo ""
