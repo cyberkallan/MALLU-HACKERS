@@ -2984,11 +2984,11 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-00) echo "AUTHOR: TUAN B4DUT" | lolcat
-echo "TUAN B4DUT ON YOUR SYSTEM" | lolcat
-echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
-echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+00) echo "AUTHOR:CYBER KALLAN" | lolcat
+echo "MALLU HACKERS ON YOUR SYSTEM" | lolcat
+echo "KERALA TERMUX ASSOCIATION" | lolcat
+echo "THANKS FOR USING MY TOOL" | lolcat
+figlet CYBER KALLAN | lolcat
 exit
 ;;
 
