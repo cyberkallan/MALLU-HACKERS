@@ -1,10 +1,7 @@
 #!/bin/bash
 #version 1.0
 
-#MAU NGAPAIN TOT?:V
-#RECODE?REEDIT?RECOPYRIGHT?COPAS?
-#MALU TOLOL!!!
-#KAGA BERMORAL!
+#cyber kallan
 
 
 #01/08/18
